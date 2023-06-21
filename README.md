@@ -1,3 +1,3 @@
-# awesome
+# awesome repository for lifelong learning
 
 ## papers
